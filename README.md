@@ -35,6 +35,7 @@
 ## 三、能力测评自动答题
 
 同时安装 `zhihuishu-get-evalution-question` 和 `zhihuishu-auto-evaluation` 两个脚本，然后按下面的步骤操作。
+其中`zhihuishu-get-evalution-question` 仅能获得题目的正确选项，不能自动答题。`zhihuishu-auto-evaluation`包含了前者的功能，并能自动完成答题。因此两个脚本只需启动其中一个即可。
 
 ### 第 1 步：进入能力测评
 
